@@ -66,7 +66,8 @@ export class App extends Component {
           alignItems: 'center',
           fontSize: 24,
           color: '#010101',
-          backgroundColor: 'azure',
+          textShadow: 'rgb(232, 216, 137) 1px 0 10px',
+          backgroundColor: 'rgba(0, 0, 255, 0.032)',
         }}
       >
         <h1>Phonebook</h1>
